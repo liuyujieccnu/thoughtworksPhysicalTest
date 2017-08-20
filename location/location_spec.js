@@ -1,4 +1,3 @@
-
 const location= require('./location.js');
 
 describe("location",function(){

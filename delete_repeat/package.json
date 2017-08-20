@@ -1,8 +1,8 @@
 {
-  "name": "jasmine-location",
+  "name": "jasmine-delete_repeat",
   "version": "1.0.0",
-  "description": "在数组 arr 中，查找值与 item 相等的元素出现的所有位置",
-  "main": "median.js",
+  "description": "数组去重置",
+  "main": "location.js",
   "scripts": {
     "test": "jasmine-node --verbose ./"
   },
